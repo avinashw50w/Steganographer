@@ -1,0 +1,1 @@
+PGM - Pbm Graymap Image Format Bitmap Graphics
